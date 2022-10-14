@@ -1,9 +1,4 @@
-
-
 import sys, time, random , pygame
-
-
-
 
 difficulty = 25
 
